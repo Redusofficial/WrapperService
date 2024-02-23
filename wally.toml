@@ -6,7 +6,7 @@ license = "MIT"
 realm = "shared"
 registry = "https://github.com/upliftgames/wally-index"
 exclude = ["*"]
-include = ["LICENSE.md", "README.md", "src", "src/**", "wally.toml", "default.project.json"]
+include = ["LICENSE.md", "README.md", "src", "src/**", "Packages/**", "wally.toml", "default.project.json"]
 
 [dependencies]
 Promise = "evaera/promise@4.0.0"
