@@ -1,4 +1,4 @@
-local Signal = require(script.Parent.Utilities.Signal)
+local Signal = require(script.Parent.Parent.Signal)
 local GetChecks = require(script.Parent.GetChecks)
 
 type Properties<I> = {

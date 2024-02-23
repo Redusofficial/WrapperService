@@ -1,9 +1,6 @@
 {
     "name": "wrapperservice",
     "tree": {
-        "$path": "src",
-        "Utilities": {
-            "$path": "Packages"
-        }
+        "$path": "src"
     }
 }
