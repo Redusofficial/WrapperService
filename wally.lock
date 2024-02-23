@@ -8,6 +8,21 @@ version = "4.0.0"
 dependencies = []
 
 [[package]]
+name = "howmanysmall/janitor"
+version = "1.15.7"
+dependencies = [["Promise", "evaera/promise@4.0.0"]]
+
+[[package]]
+name = "osyrisrblx/t"
+version = "3.1.1"
+dependencies = []
+
+[[package]]
 name = "redusofficial/wrapperservice"
-version = "1.0.3"
-dependencies = [["promise", "evaera/promise@4.0.0"]]
+version = "1.0.5"
+dependencies = [["Jantior", "howmanysmall/janitor@1.15.7"], ["Promise", "evaera/promise@4.0.0"], ["Signal", "stravant/goodsignal@0.2.1"], ["t", "osyrisrblx/t@3.1.1"]]
+
+[[package]]
+name = "stravant/goodsignal"
+version = "0.2.1"
+dependencies = []
