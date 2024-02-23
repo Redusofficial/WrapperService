@@ -1,5 +1,5 @@
-local Signal = require(script.Parent.Parent.Signal)
-local Janitor = require(script.Parent.Parent.Janitor)
+local Signal = require(script.Parent.Signal)
+local Janitor = require(script.Parent.Janitor)
 
 local GetChecks = require(script.GetChecks)
 local WrappedInstance = require(script.WrappedInstance)
