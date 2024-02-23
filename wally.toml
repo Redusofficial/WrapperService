@@ -1,12 +1,12 @@
 [package]
 name = "redusofficial/wrapperservice"
 description = "This service allows you to create custom properties for roblox instances, see the documentation for more info: https://zxibs.github.io/WrapperService/ github: https://github.com/zxibs/WrapperService"
-version = "1.0.6"
+version = "1.0.7"
 license = "MIT"
 realm = "shared"
 registry = "https://github.com/upliftgames/wally-index"
 exclude = ["*"]
-include = ["LICENSE.md", "README.md", "src", "src/**", "Packages", "Packages/**", "wally.toml", "default.project.json"]
+include = ["LICENSE.md", "README.md", "src", "src/**", "Packages", "wally.toml", "default.project.json"]
 
 [dependencies]
 Promise = "evaera/promise@4.0.0"
