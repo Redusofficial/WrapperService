@@ -93,4 +93,8 @@ $RECYCLE.BIN/
 # Moonwave build files
 build
 
+# Packages
+
+Packages/*
+
 # End of https://www.toptal.com/developers/gitignore/api/lua,windows,visualstudiocode

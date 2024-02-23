@@ -1,3 +1,2 @@
-# WrapperService
-
-This service allows you to create custom properties for roblox instances, see the documentation for more info: https://zxibs.github.io/WrapperService/
+Fork of lisachandra/WrapperService, modified to meet my needs.
+https://github.com/lisachandra/WrapperService
